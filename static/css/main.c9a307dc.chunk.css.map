@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAKA,iCAJE,WAAY,CACZ,WAQF,CALA,oBAIE,wBACF,CAEA,mBACE,YACF","file":"main.c9a307dc.chunk.css","sourcesContent":[".App__button {\n  margin: 10px;\n  width: 150px;\n}\n\n.App__button-active {\n  margin: 10px;\n  width: 150px;\n\n  background-color: rgb(177, 228, 105);\n}\n\n.App__start-active {\n  display: none;\n}\n"]}
